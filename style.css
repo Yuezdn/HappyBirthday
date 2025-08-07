@@ -20,6 +20,7 @@ h1{
     font-family: "TikTok Sans", sans-serif;
     color: palevioletred;
     text-align: center;
+    font-size: 30px;
     margin-top: 20px;
     margin-bottom: 10px;
 }
@@ -42,4 +43,5 @@ p{
     margin-left: 10px;
     margin-right: 10px;
     text-align: center;
+
 }
