@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url(./main.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Caveat", cursive;
+}
+
+h1{
+    font-family: "TikTok Sans", sans-serif;
+    color: palevioletred;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+h3{
+    font-family: "TikTok Sans", sans-serif;
+    color: palevioletred;
+    text-align: center;
+}
+
+h2{
+    font-family: "Lobster", sans-serif;
+}
+
+p{
+    color: palevioletred;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
